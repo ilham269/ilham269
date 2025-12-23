@@ -72,7 +72,11 @@ I work quietly, but the results matter.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=38bdf8)](#)
+<p align="center">
+  <a href="https://instagram.com/mhmdhamm_26">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+</p>
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=38bdf8)](#)
 
 </div>
