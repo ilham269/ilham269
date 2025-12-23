@@ -3,7 +3,8 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HELLO%20XTC%20🐝&fontSize=50&fontAlignY=40&color=0:ffffff,50:7dd3fc,100:1e3a8a&fontColor=1e3a8a" />
+    <img src="https://raw.githubusercontent.com/xtcdev/xtcdev/main/banner.svg" alt="XTC Banner" />
+
 </p>
 
 <h1 align="center">🐝Hello i'm ilham</h1>
