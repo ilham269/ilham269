@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="120"/>
-
+<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/main/banner.png" alt="HELLO xtc Banner" />
 # 🐝 xtc
 
 ### _Building ideas with code_
