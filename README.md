@@ -3,13 +3,12 @@
 <!-- ===================== -->
 
 <p align="center">
-    <img src="raw.githubusercontent.com/xtcdev/xtcdev/main/banner.svg"  />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=xtc%20🐝&fontSize=60&fontAlignY=40&color=0:ffffff,50:7dd3fc,100:1e3a8a&fontColor=1e3a8a" />
 </p>
 
-<h1 align="center">🐝Hello i'm ilham</h1>
+<h1 align="center">🐝 xtc</h1>
 <p align="center">
-  <b>Muhamd Ilham</b> • Student Developer • Web Enthusiast
+  Student Developer • Web Enthusiast
 </p>
 
 <p align="center">
@@ -20,15 +19,15 @@
 
 ## 👋 About Me
 
-Hi, I'm **ILHAM** 👋  
-A student developer who enjoys building **clean, modern, and meaningful web applications**.
+Hi! I'm **xtc** 👋  
+A student developer who enjoys creating **clean, simple, and useful** web applications.
 
-🐝 **Bee mindset:**
-- Work consistently  
-- Learn every day  
-- Focus on long-term results  
+🐝 **Bee mindset**
+- Consistent learning  
+- Quiet progress  
+- Focus on results  
 
-Currently learning **Laravel, PHP, and UI/UX Design**.
+Currently exploring **Laravel, PHP, and UI/UX Design**.
 
 ---
 
@@ -58,18 +57,15 @@ Currently learning **Laravel, PHP, and UI/UX Design**.
 
 ---
 
-## 🐝 Bee Philosophy
+## 🐝 Philosophy
 
-> *"Consistency turns small efforts into big achievements."*
+> *Small steps. Every day. Real results.*
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/mhmdhamm_26/">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=1e3a8a"/>
-  </a>
   <a href="https://github.com/USERNAME_KAMU">
     <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=1e3a8a"/>
   </a>
