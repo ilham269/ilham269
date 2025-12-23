@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HELLO%20XTC%20🐝&fontSize=50&fontAlignY=40&color=0:ffffff,50:7dd3fc,100:1e3a8a&fontColor=1e3a8a" />
 </p>
 
-<h1 align="center">🐝 xtc</h1>
+<h1 align="center">🐝Hello i'm ilham</h1>
 <p align="center">
   <b>Muhamd Ilham</b> • Student Developer • Web Enthusiast
 </p>
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **xtc** 👋  
+Hi, I'm **ILHAM** 👋  
 A student developer who enjoys building **clean, modern, and meaningful web applications**.
 
 🐝 **Bee mindset:**
@@ -66,7 +66,7 @@ Currently learning **Laravel, PHP, and UI/UX Design**.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.instagram.com/mhmdhamm_26/">
     <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=1e3a8a"/>
   </a>
   <a href="https://github.com/USERNAME_KAMU">
