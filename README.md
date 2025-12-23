@@ -40,7 +40,7 @@ Currently exploring **Laravel, PHP, and UI/UX Design**.
 <img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=1e3a8a"/>
 <img src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=1e3a8a"/>
 <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=1e3a8a"/>
+<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=1e3a8a"/>
 
 </p>
 
