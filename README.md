@@ -2,9 +2,7 @@
 <!-- GITHUB PROFILE README -->
 <!-- ===================== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/main/banner.png" alt="HELLO xtc Banner" />
-</p>
+
 
 <h1 align="center">🐝 xtc</h1>
 <p align="center">
@@ -66,7 +64,7 @@ Currently learning **Laravel, PHP, and UI/UX Design**.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.instagram.com/mhmdhamm_26/">
     <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=38bdf8"/>
   </a>
   <a href="https://github.com/USERNAME_KAMU">
