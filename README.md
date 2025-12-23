@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/xtcdev/xtcdev/main/banner.svg" alt="XTC Banner" />
+    <img src="raw.githubusercontent.com/xtcdev/xtcdev/main/banner.svg"  />
 
 </p>
 
