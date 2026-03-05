@@ -1,58 +1,78 @@
-# Hi there 👋 I'm Muhamad ilham
+# Hi there 👋 I'm Muhamad Ilham
 
-💻 Web Developer | UI/UX Designer  
-🚀 Passionate about building web & mobile applications  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilham269&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor counter"/>
+</p>
+
+<p align="center">
+💻 Web Developer | UI/UX Designer <br>
+🚀 Passionate about building Web & Mobile Applications <br>
 🎯 Currently learning advanced backend and modern frontend stack
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on personal web projects
-- 🌱 Learning more about **Laravel ecosystem & modern JavaScript**
-- 🎨 Experienced in **UI/UX Design and Flyer Design**
-- ⚡ Interested in **Web Development, Mobile Apps, and Networking**
-
----
-
-## 🚀 Tech Stack
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+* 🔭 Currently working on **personal web projects**
+* 🌱 Learning more about **Laravel ecosystem & modern JavaScript**
+* 🎨 Experienced in **UI/UX Design and Flyer Design**
+* ⚡ Interested in **Web Development, Mobile Apps, and Networking**
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,linux,figma&perline=7" />
 
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/ilham269
-- Portfolio: Coming Soon 🚀
+</p>
 
 ---
 
-⭐ From [Cees](https://github.com/ilham269)
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilham269&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham269&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ilham269&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ilham269/ilham269/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ilham269">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ From **Muhamad Ilham**
