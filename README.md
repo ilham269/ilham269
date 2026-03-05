@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgree,linux,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,PostgreSQL,linux,figma&perline=7" />
 
 </p>
 
