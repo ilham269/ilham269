@@ -1,79 +1,58 @@
-<!-- ===================== -->
-<!-- GITHUB PROFILE README -->
-<!-- ===================== -->
+# Hi there 👋 I'm Cees
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=xtc%20🐝&fontSize=60&fontAlignY=40&color=0:ffffff,50:7dd3fc,100:1e3a8a&fontColor=1e3a8a" />
-</p>
-
-<h1 align="center">🐝 xtc</h1>
-<p align="center">
-  Student Developer • Web Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-White%20%7C%20Light%20Blue%20%7C%20Dark%20Blue-1e3a8a?style=for-the-badge"/>
-</p>
+💻 Web Developer | UI/UX Designer  
+🚀 Passionate about building web & mobile applications  
+🎯 Currently learning advanced backend and modern frontend stack
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **MUHAMAD ILHAM** 👋  
-A student developer who enjoys creating **clean, simple, and useful** web applications.
-
-🐝 **Bee mindset**
-- Consistent learning  
-- Quiet progress  
-- Focus on results  
-
-Currently exploring **Laravel, PHP, and UI/UX Design**.
+- 🔭 Currently working on personal web projects
+- 🌱 Learning more about **Laravel ecosystem & modern JavaScript**
+- 🎨 Experienced in **UI/UX Design and Flyer Design**
+- ⚡ Interested in **Web Development, Mobile Apps, and Networking**
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
 
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=1e3a8a"/>
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-</p>
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&bg_color=ffffff&title_color=1e3a8a&icon_color=38bdf8&text_color=1e293b"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&bg_color=ffffff&title_color=1e3a8a&text_color=1e293b"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
 
 ---
 
-## 🐝 Philosophy
+## 🌐 Connect With Me
 
-> *Small steps. Every day. Real results.*
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=1e3a8a"/>
-  </a>
-</p>
+- GitHub: https://github.com/USERNAMEKAMU
+- Portfolio: Coming Soon 🚀
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,50:7dd3fc,100:ffffff&section=footer"/>
-</p>
+⭐ From [Cees](https://github.com/USERNAMEKAMU)
