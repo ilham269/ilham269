@@ -25,7 +25,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgresql,linux,figma,mongodb&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgresql,linux,figma,mongodb&perline=7)](https://skillicons.dev)
 </p>
 
 ---
@@ -38,14 +38,36 @@
 
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/ilham269">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="https://instagram.com/USERNAME_KAMU">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://linkedin.com/in/USERNAME_KAMU">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/USERNAME_KAMU">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://youtube.com/@USERNAME_KAMU">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="mailto:emailkamu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
 
 </p>
 
