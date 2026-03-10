@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-* 🔭 Currently study on **personal web projects**
+* 🔭 Currently working on **personal web projects**
 * 🌱 Learning more about **Laravel ecosystem & modern JavaScript**
 * 🎨 Experienced in **UI/UX Design and Flyer Design**
 * ⚡ Interested in **Web Development, Mobile Apps, and Networking**
@@ -24,20 +24,19 @@
 # 🧠 Tech Stack
 
 <p align="center">
-
-  [![My Skills](https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgresql,linux,figma,mongodb&perline=7)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgresql,linux,figma,mongodb&perline=7" />
 </p>
 
 ---
+
 # 📈 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ilham269&theme=tokyonight&hide_border=true"/>
-
-
+  <img src="https://streak-stats.demolab.com?user=ilham269&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -68,8 +67,6 @@
 
 </p>
 
+---
 
-</p>
-
-------
 ⭐ From **Muhamad Ilham**
