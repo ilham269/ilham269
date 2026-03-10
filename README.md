@@ -36,9 +36,6 @@
 <img src="https://streak-stats.demolab.com?user=ilham269&theme=tokyonight&hide_border=true"/>
 
 
-="https://raw.githubusercontent.com/ilham269/ilham269/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
