@@ -25,8 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,PostgreSQL,linux,figma&perline=7" />
-
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,express,flutter,dart,php,javascript,html,css,mysql,git,postgresql,linux,figma,mongodb&perline=7)](https://skillicons.dev)
 </p>
 
 ---
