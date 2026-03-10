@@ -35,15 +35,8 @@
 
 <img src="https://streak-stats.demolab.com?user=ilham269&theme=tokyonight&hide_border=true"/>
 
-</p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ilham269/ilham269/output/github-contribution-grid-snake.svg"/>
+="https://raw.githubusercontent.com/ilham269/ilham269/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
