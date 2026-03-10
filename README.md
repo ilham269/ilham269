@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-* 🔭 Currently working on **personal web projects**
+* 🔭 Currently study on **personal web projects**
 * 🌱 Learning more about **Laravel ecosystem & modern JavaScript**
 * 🎨 Experienced in **UI/UX Design and Flyer Design**
 * ⚡ Interested in **Web Development, Mobile Apps, and Networking**
